@@ -4,6 +4,7 @@ int main()
 {
     float r, f;
     int i, t;
+    printf("\n\tSIMPLE INTEREST");
     printf("Terms --\n--> Do not enter Initial amount in decimal\n--> Enter time in years");
     printf("\nEnter annual interest rate - ");
     scanf("%f", &r);
